@@ -17,4 +17,7 @@ What things do you need to implement these projects :
     1) Google collab
     2) Machine learning mathematical foundation 
 
+Project List: 
+    1) PAN Card tampering detection
+
  
