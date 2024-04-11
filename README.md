@@ -1,11 +1,13 @@
-Project Folder : Machine Learning Projects
+Author - Ashutosh Tiwari
 
-This folder will contain 100+ projects on Machine Learning followed by their deployment on cloud services such as aws, azure, gcp and heroku.
+Project Folder: Machine Learning Projects
+
+This folder will contain 100+ projects on Machine Learning followed by their deployment on cloud services such as AWS, azure, GCP and Heroku.
 
 ### Prerequisites
 
-What things you need to implement these projects : 
-    1) Google colab
+What things do you need to implement these projects : 
+    1) Google collab
     2) Machine learning mathematical foundation 
 
  
