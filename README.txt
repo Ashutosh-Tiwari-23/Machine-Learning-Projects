@@ -1,5 +1,4 @@
 # Project 1: Pamn card tampering detection 
-<br>
 # Project 2 : Dog breed prediction  using Tensorflow and Keras
 Steps to solve the problem : 
     1) Load the data from Kaggle
@@ -12,3 +11,5 @@ Steps to solve the problem :
     8) split the data and fit it into the model and create an accuracy plot 
     9) evaluate the model accuracy score
    10) use the model for prediction
+
+# Project 3 : 
